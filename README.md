@@ -1,6 +1,6 @@
 ## Descripción del Proyecto
 Este proyecto tiene la finalidad de diseñar y construir un cargador solar automatizado que mejore la eficiencia de captación de energía solar mediante la orientación óptima hacia el sol. Para ello se creó un código, con el cual se programará un software de control que integre los algoritmos de seguimiento solar y gestión de energía, asegurando que el sistema sea eficiente, fácil de usar y mantenible, y que esté adecuadamente documentado para futuras referencias y mejoras. La implementación del cargador solar se debe a que el mundo actual está sintiendo los efectos del cambio climático y el calentamiento global, generados en parte por la quema de combustibles fósiles para la generación de energía eléctrica. Por ello nos vemos obligados a generar fuentes limpias de energía.
-##Requisitos
+## Requisitos
 Para ejecutar el programa:
 - Tener un dispositivo tecnológico. 
 - Tener instalado o instalar VisualStudioCode.
