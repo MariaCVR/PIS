@@ -20,5 +20,7 @@ A continuacion, se detallan los pasos a seguir para poder ejecutar el programa e
 - Compile el programa para verificar que no haya errores de sintaxis
 - Seleccione la opcion de subir, la cual se encuentra al lado de la opcion para compilar
 - Desconectar cuidadosamente el arduino para colocarlo en el seguidor solar
-## Uso
+## Usos
 Después de seguir con los pasos de instalación, solo queda implementar el programa para el seguimiento solar, en el cual proporcionaremos las variables de latitud y longitud, para obtener las coordenadas del sol.
+## Link del Informe 
+ [Informe](https://github.com/MariaCVR/PIS/blob/main/Automatizaci%C3%B3n_de_Paneles_Solares%5B1%5D.pdf´)
