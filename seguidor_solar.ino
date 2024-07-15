@@ -2,12 +2,12 @@
 
 //Definiendo Servos
 Servo servohori; //Servo horizontal
-int servoh = 0; 
+int servoh = 100; 
 int servohLimitHigh = 160; //Valor maximo de movimiento de 160
 int servohLimitLow = 20; //Valor minimod de movimiento de 20
 
 Servo servoverti; //Servo vertical
-int servov = 0; 
+int servov = 100; 
 int servovLimitHigh = 160; //Valor maximo de movimiento de 160
 int servovLimitLow = 20; //Valor minimod de movimiento de 20
 
@@ -20,9 +20,9 @@ int ldrinf_d = 0; //LDR inferior derecho
 void setup () //Parte que se ejecutara una sola vez
 {
   servohori.attach(10);
-  servohori.write(0); //Ubica al servo horizontal en la posicion 0
+  servohori.write(100); //Ubica al servo horizontal en la posicion 0
   servoverti.attach(9);
-  servoverti.write(0); //Ubica al servo vertical en la posicion 0
+  servoverti.write(100); //Ubica al servo vertical en la posicion 0
   delay(500); //Retraso o delay de 500 milisegundos
 }
 
